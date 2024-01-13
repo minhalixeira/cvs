@@ -1,6 +1,6 @@
 # cvs
 
-## cria repo local
+## criar o repo local
 ```
 cvs create
 ```
@@ -16,7 +16,7 @@ cvs up
 cvs down exemplo.com/repo
 ```
 
-## baixar alterções remotas
+## baixar alterações do repo remoto
 
 ```
 cvs down
